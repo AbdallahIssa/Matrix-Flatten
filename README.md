@@ -15,10 +15,7 @@
 
 ## Technologies Used
 
-- Java language using Jackson library.
-- IDE : IntelliJ IDEA.
-
-
+- python language.
 
 
 ## Usage
