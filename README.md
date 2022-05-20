@@ -15,7 +15,7 @@
 
 ## Technologies Used
 
-- python language.
+- Python language.
 
 
 ## Usage
